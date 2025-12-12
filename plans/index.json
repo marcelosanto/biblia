@@ -1,0 +1,23 @@
+[
+  {
+    "id": "nt_90",
+    "title": "Novo Testamento em 90 Dias",
+    "description": "Leia todo o NT em apenas 3 meses.",
+    "isPremium": false,
+    "filename": "nt_90.json"
+  },
+  {
+    "id": "salmos_prov",
+    "title": "Salmos e Provérbios",
+    "description": "Sabedoria e Louvor para o dia a dia.",
+    "isPremium": false,
+    "filename": "salmos_prov.json"
+  },
+  {
+    "id": "biblia_anual",
+    "title": "Bíblia em 1 Ano",
+    "description": "O plano completo de Gênesis a Apocalipse.",
+    "isPremium": true,
+    "filename": "anual.json"
+  }
+]
