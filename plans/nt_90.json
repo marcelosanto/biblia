@@ -3,18 +3,24 @@
     "day": 1,
     "display": "Mateus 1-2",
     "startBookId": 40,
-    "startChapter": 1
+    "startChapter": 1,
+    "endBookId": 40,
+    "endChapter": 2
   },
   {
     "day": 2,
     "display": "Mateus 3-4",
     "startBookId": 40,
-    "startChapter": 3
+    "startChapter": 3,
+    "endBookId": 40,
+    "endChapter": 4
   },
   {
     "day": 3,
-    "display": "Mateus 5-6",
+    "display": "Mateus 5-7",
     "startBookId": 40,
-    "startChapter": 5
+    "startChapter": 5,
+    "endBookId": 40,
+    "endChapter": 7
   }
 ]
