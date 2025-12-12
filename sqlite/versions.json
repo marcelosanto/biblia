@@ -3,21 +3,21 @@
     "id": "acf",
     "name": "Almeida Corrigida Fiel",
     "filename": "acf.db",
-    "url": "https://github.com/seu-usuario/seu-repo/raw/main/biblias/acf.db",
+    "url": "https://github.com/marcelosanto/biblia/raw/refs/heads/master/sqlite/acf.db",
     "size": "5MB"
   },
   {
     "id": "nvi",
     "name": "Nova Versão Internacional",
     "filename": "nvi.db",
-    "url": "https://github.com/seu-usuario/seu-repo/raw/main/biblias/nvi.db",
+    "url": "https://github.com/marcelosanto/biblia/raw/refs/heads/master/sqlite/nvi.db",
     "size": "5MB"
   },
   {
     "id": "aa",
     "name": "Almeida Revisada Imprensa Biblica",
     "filename":"aa.db",
-    "url": "https://github.com/seu-usuario/seu-repo/raw/main/biblias/aa.db",
+    "url": "https://github.com/marcelosanto/biblia/raw/refs/heads/master/sqlite/aa.db",
     "size": "5MB"
   }
 ]
