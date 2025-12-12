@@ -19,5 +19,12 @@
     "filename":"aa.db",
     "url": "https://github.com/marcelosanto/biblia/raw/refs/heads/master/sqlite/aa.db",
     "size": "5MB"
+  },
+  {
+    "id": "KJA",
+    "name": "King James Atualizada - 1999",
+    "filename":"KJA.db",
+    "url": "https://github.com/marcelosanto/biblia/raw/refs/heads/master/sqlite/KJA.db",
+    "size": "5MB"
   }
 ]
